@@ -1,0 +1,40 @@
+[
+  {
+    "model": "/Users/ilya/LGG_SEGM/data/models/1.pth",
+    "timestamp": "2025-12-04 02:41:16",
+    "metrics": {
+      "train_loss": [
+        0.011148367154722413
+      ],
+      "train_dice": [
+        0.8496925334135691
+      ],
+      "val_loss": [
+        0.004016001592390239
+      ],
+      "val_dice": [
+        0.970053493976593
+      ],
+      "best_dice": 0.970053493976593
+    }
+  },
+  {
+    "model": "/Users/ilya/LGG_SEGM/data/models/12.pth",
+    "timestamp": "2025-12-04 02:44:23",
+    "metrics": {
+      "train_loss": [
+        0.008817258756607771
+      ],
+      "train_dice": [
+        0.8095766305923462
+      ],
+      "val_loss": [
+        0.016122867353260517
+      ],
+      "val_dice": [
+        0.9292928874492645
+      ],
+      "best_dice": 0.9292928874492645
+    }
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "admin": {
+    "password": "gAAAAABpGHBj8cQ74Qv0_aqBSS6hNaZnjVK02mS_BW6I96aL4MGagVwYYIGBfPkmGc8wqpGGQsdWaYD9EbBKK-gp0I4QFK4pAQ==",
+    "role": "admin",
+    "full_name": "\u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440 \u0441\u0438\u0441\u0442\u0435\u043c\u044b",
+    "user_id": "016b2241-7320-4333-8fc6-79b5936ee05f"
+  },
+  "doctor": {
+    "password": "gAAAAABpGHBjTHMB_3wN-m9Secssi11W-K9xA_u6kznvVU4NfqiaqxqvFUEteQ4kY7yiSD1n7BIeTjdl_fOwIiLJZYUQrdv4qQ==",
+    "role": "doctor",
+    "full_name": "\u0412\u0440\u0430\u0447",
+    "user_id": "e5dd3fca-381d-42c9-9f7f-e2bc74dc1480"
+  },
+  "researcher": {
+    "password": "gAAAAABpGHBj3jM8eN6v3HMNkGa2zjlSJ0OPr4Lk_h47KbxYviiMppDObP1opmvHz3c6tRstftafjdUf3_FnodCbdk9wwjy5HQ==",
+    "role": "researcher",
+    "full_name": "\u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c",
+    "user_id": "9323c0ad-bffe-4803-a2fa-6763f83f5c22"
+  },
+  "d": {
+    "password": "gAAAAABpGHGGHvFWdx_LjWbW8uR1rNvrX12_C5vG7svh60QYk6FEPdOZ8FhSsEnDzz2kzjCtz_0txqEVb1CdRU0S2bftV6Zv1Q==",
+    "role": "doctor",
+    "full_name": "1",
+    "user_id": "88157851-e3b0-47a4-bd78-dc0af3becaf1"
+  },
+  "r": {
+    "password": "gAAAAABpMMXkvzInOQl6X-JFXtTl2X4uar1gB32cdlGXffsEqqKEyjqU3-K6MnTPZsi1J49i_1LaGFcujVwhkTkR5936IRG7OQ==",
+    "role": "researcher",
+    "full_name": "ilya",
+    "user_id": "7e3adeaa-f06b-46a7-9201-78d01c657c1b"
+  }
+}
