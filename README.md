@@ -72,7 +72,9 @@ pytest tests/ -v
 ### Таблица тестов
 
 ![alt text](/docs/test.png)
+![alt text](/docs/uat.png)
 
 ### Таблица характеристик (архитектура нейронной сети)
 
 ![alt text](/docs/arch.png)
+![alt text](/docs/table.png)
