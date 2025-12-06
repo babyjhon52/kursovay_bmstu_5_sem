@@ -203,7 +203,8 @@ class TrainingThread(QThread):
                 pin_memory=True
             )
             self.progress.emit(20)
-
+            logger.info(
+                f"using {DEVICE}")
             best_val_dice = 0
             metrics = {
                 "train_loss": [],

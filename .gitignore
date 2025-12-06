@@ -1,3 +1,4 @@
 kaggle_3m/
-
 *.pth
+__pycache__/
+*.pyc

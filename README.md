@@ -57,9 +57,9 @@ pytest tests/ -v
 
 ![alt text](/docs/uml.png)
 
-### Диаграмма потоков данных
+### Диаграмма состояний интерфейса
 
-![alt text](/docs/flow.png)
+![alt text](/docs/current.png)
 
 ### Схема ключевого модуля
 
@@ -69,12 +69,6 @@ pytest tests/ -v
 
 ![alt text](/docs/po.png)
 
-### Таблица тестов
-
-![alt text](/docs/test.png)
-![alt text](/docs/uat.png)
-
 ### Таблица характеристик (архитектура нейронной сети)
 
 ![alt text](/docs/arch.png)
-![alt text](/docs/table.png)

@@ -72,8 +72,8 @@ class MainWindow(QMainWindow):
         """Применение ограничений доступа в зависимости от роли"""
         if self.current_user["role"] == "admin":
             self.btn_admin.setEnabled(True)
-            self.btn_doctor.setEnabled(True)
-            self.btn_researcher.setEnabled(True)
+            self.btn_doctor.setEnabled(False)
+            self.btn_researcher.setEnabled(False)
         elif self.current_user["role"] == "doctor":
             self.btn_admin.setEnabled(False)
             self.btn_doctor.setEnabled(True)
